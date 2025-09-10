@@ -1,0 +1,11 @@
+{
+    "AUTH_ERROR": "Error de autenticación",
+    "DATA_NOT_FOUND": "Datos no encontrados",
+    "DATA_EXISTS": "Los datos ya existen",
+    "INTERNAL_SERVER_ERROR": "Error interno del servidor",
+    "Credenciales incorrectas.": "Credenciales incorrectas.",
+    "Bearer token no enviado": "Bearer token no enviado",
+    "Token invalido o expirado": "Token inválido o expirado",
+    "cliente_guardado": "Cliente guardado exitosamente",
+    "clientes_obtenidos": "Clientes obtenidos exitosamente"
+}
